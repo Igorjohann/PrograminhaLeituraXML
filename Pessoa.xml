@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<pessoas>
+	<pessoa id="1"> <!--Um Elemento que contém vários elementos dentro -->
+		<nome> Igor </nome>
+		<idade> 21 </idade>
+		<peso> 64 </peso>
+		<apelido>Mister Cachaça</apelido>
+		<sexo>Macho Alfa</sexo>
+	</pessoa>
+	
+	
+	<pessoa id="2">
+		<nome> Pedro </nome>
+		<idade> 21 </idade>
+		<peso> 70 </peso>
+		<apelido> Pedroca BebumFraco</apelido>
+		<sexo> Macho</sexo>
+	</pessoa>
+	
+	
+	<pessoa id="3">
+		<nome> Alice </nome>
+		<idade> 16 </idade>
+		<peso> 50 </peso>
+		<apelido>lice das meninas</apelido>
+		<sexo>fêmea</sexo>
+	</pessoa>
+
+
+</pessoas>
