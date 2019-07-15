@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<statusatividades>
+
+    <entrada>
+    
+        <tarefa
+            codigo= "JAR-168"
+            nome= "[OURO] BATIMENTO DA FRAUDE BRUTA MENSAL"
+            diretoria= ""
+            tamanho= "G"
+            statusjira= "BACKLOG"
+            mensagem= "Recebemos sua demanda!"
+            />
+
+        <tarefa
+            codigo="134"
+            nome="[PP] DESENVOLVER CUBO DE DADOS PARA OPERAÇÕES FINANCEIRAS DE BACKOFFICE"
+            diretoria="DIRETORIA FINANCEIRA"
+            tamanho="M"
+            statusjira="BACKLOG"
+            mensagem="Recebemos sua demanda!"
+            />
+
+            <tarefa
+            codigo="JAR-206"
+            nome="[JAR-46] [PP] DISPONIBILIZAÇÃO DE INFORMAÇÕES DE LIQUIDAÇÃO FINANCEIRA DOS ADQUIRENTES"
+            diretoria="DIRETORIA FINANCEIRA"
+            tamanho="P"
+            statusjira="BACKLOG"
+            mensagem="Sua demanda estrou na nossa Sprint! :)"
+            />
+
+        
+       
+
+    </entrada>
+
+    <producao>
+
+        <tarefa
+            codigo="JAR-189"
+            nome="[PP] VERIFICAR DIAS FALTANTES NO SALDO"
+            diretoria="DIRETORIA FINANCEIRA"
+            tamanho="P"
+            statusjira= "ITENS ABERTOS"
+            mensagem= "Sua demanda entrou na nossa Sprint! :)"
+            />
+
+        <tarefa
+            codigo="JAR-206"
+            nome="[JAR-46] [PP] DISPONIBILIZAÇÃO DE INFORMAÇÕES DE LIQUIDAÇÃO FINANCEIRA DOS ADQUIRENTES"
+            diretoria="DIRETORIA FINANCEIRA"
+            tamanho="P"
+            statusjira="ITENS ABERTOS"
+            mensagem="Sua demanda estrou na nossa Sprint! :)"
+            />
+
+        <tarefa
+            codigo="134"
+            nome="[PP] DESENVOLVER CUBO DE DADOS PARA OPERAÇÕES FINANCEIRAS DE BACKOFFICE"
+            diretoria="DIRETORIA FINANCEIRA"
+            tamanho="M"
+            statusjira="ITENS ABERTOS"
+            mensagem="Sua demanda entrou na nossa Sprint! :)"
+        />
+
+    </producao>
+
+    <homologacao>
+    
+        <tarefa
+            codigo="JAR-165"
+            nome="[CAT] INSTALAÇÃO DO QLIK SENSE NO SERVIDOR AWS"
+            diretoria=""
+            tamanho="P"
+            statusjira="PENDENTES DE REVIEW"
+            mensagem="Sua demanda está pronta! Esperamos sua homologação"
+            />
+        
+        <tarefa
+            codigo="JAR-160"
+            nome="[PP] CRIAR ENDPOINTS DE CONTROLE DE GASTOS"
+            diretoria="DIRETORIA TI/OPERAÇÕES"
+            tamanho=""
+            statusjira="PENDENTES DE REVIEW"
+            mensagem="Sua demanda está pronta! Esperamos sua homologação"
+            />
+
+        <tarefa
+            codigo="JAR-206"
+            nome="[JAR-46] [PP] DISPONIBILIZAÇÃO DE INFORMAÇÕES DE LIQUIDAÇÃO FINANCEIRA DOS ADQUIRENTES"
+            diretoria="DIRETORIA FINANCEIRA"
+            tamanho="P"
+            statusjira="PENDENTES DE REVIEW"
+            mensagem="Sua demanda está pronta! Esperamos sua homologação:)"
+            />
+
+  
+    
+    </homologacao>
+
+    <entrega>
+    
+        <tarefa
+            codigo="JAR-184"
+            nome="[CAT] Treinamento PENTAHO - Módulo 01 - Pentaho Data Integration (Kettle)"
+            diretoria="DIRETORIA TI/OPERAÇÕES"
+            tamanho="M"
+            statusjira="ITENS CONCLUIDOS"
+            mensagem="Sua demanda foi entregue! Conte com a gente :)"
+            />
+    
+        <tarefa
+            codigo="JAR-182"
+            nome="[CAT] INSTALAÇÃO DO QLIK SENSE NO SERVIDOR AWS - CRIAR SERVIDOR"
+            diretoria="DIRETORIA TI/OPERAÇÕES"
+            tamanho="P"
+            statusjira="ITENS CONCLUÍDOS"
+            mensagem="Sua demanda foi entregue! Conte com a gente :)"
+            />
+
+            <tarefa
+            codigo="JAR-206"
+            nome="[JAR-46] [PP] DISPONIBILIZAÇÃO DE INFORMAÇÕES DE LIQUIDAÇÃO FINANCEIRA DOS ADQUIRENTES"
+            diretoria="DIRETORIA FINANCEIRA"
+            tamanho="P"
+            statusjira="ITENS CONCLUIDOS"
+            mensagem="Sua demanda foi entregue! Conte com a gente :"
+            />
+
+        
+    </entrega>
+
+</statusatividades>
